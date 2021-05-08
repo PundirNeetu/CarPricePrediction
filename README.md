@@ -1,1 +1,2 @@
-# Car-Price-Prediction
+- Predicting car price using Random forest regression.
+- creating pickle file for model generation
